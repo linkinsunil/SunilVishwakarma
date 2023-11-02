@@ -2,20 +2,20 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import calculator from "@/public/calculator.jpg";
-import ecommerce from "@/public/ecommerce.png";
-import czarUI from "@/public/czarUI.png";
-import flashtype from "@/public/flashtype.png";
-import flexbox from "@/public/flexbox.png";
-import fullstackMiniApp from "@/public/fullstack-mini-app.png";
-import infiniteScroll from "@/public/infiniteScroll.png";
-import listedDashboard from "@/public/listedDashboard.png";
-import namely from "@/public/namely.png";
-import newTabExtension from "@/public/new-tab-extension.png";
-import pokedex from "@/public/pokedex.png";
-import svgDashboard from "@/public/svgDashboard.png";
-import textUtils from "@/public/text-utils.png";
-import videoLibrary from "@/public/video-library.png";
+import calculator from "../../public/calculator.jpg";
+import ecommerce from "../../public/ecommerce.png";
+import czarUI from "../../public/czarUI.png";
+import flashtype from "../../public/flashtype.png";
+import flexbox from "../../public/flexbox.png";
+import fullstackMiniApp from "../../public/fullstack-mini-app.png";
+import infiniteScroll from "../../public/infiniteScroll.png";
+import listedDashboard from "../../public/listedDashboard.png";
+import namely from "../../public/namely.png";
+import newTabExtension from "../../public/new-tab-extension.jpg";
+import pokedex from "../../public/pokedex.png";
+import svgDashboard from "../../public/svgDashboard.png";
+import textUtils from "../../public/text-utils.png";
+import videoLibrary from "../../public/video-library.png";
 
 export const links = [
   {

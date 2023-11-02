@@ -1,7 +1,9 @@
+import Intro from "@/components/intro";
+
 export default function Home() {
   return (
-    <main className="">
-      <h1 className="text-2xl font-semibold text-center">Portfolio</h1>
+    <main className="flex flex-col items-center px-4 py-32">
+      <Intro />
     </main>
   );
 }
